@@ -8,5 +8,7 @@ int main()
 
     printf("\nResult: %d ", carattere);
 
+    // amo il mio amore
+
    return (0);
 }
